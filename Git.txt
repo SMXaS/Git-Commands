@@ -7,6 +7,7 @@ CD navigation to the location or Branch here
 2. git config --global user.name 'name'
 3. git config --global user.email 'email'
 -----------------------------------------------
+*Continue for new project*
 4. git add (fileName.html) or git add . ( all )
 5. git status
 6. git rm --cached fileName.html ( remove )
@@ -16,9 +17,8 @@ CD navigation to the location or Branch here
 10. To get out of commit, ESC and :wq to type
 11. git remote add origin (location of the project)
 12. git push -u origin master
-
-
-To make changes in already existing folder
+-----------------------------------------------
+*To make changes in already existing folder*
 1. Bash into the folder location
 2. git status
 3. git add . (if all)
